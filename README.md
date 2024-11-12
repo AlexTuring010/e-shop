@@ -28,11 +28,6 @@ While following these tutorials, I made several changes, additions, and personal
 - **Product Display**: Browse available products, view product details.
 - **Shopping Cart**: Add products to a shopping cart, modify quantities, and proceed to checkout.
 - **Order Management**: Place orders and view order history.
-  
-## 🔄 Modifications and Additions
-
-Throughout the project, I experimented with additional features and changes to the original tutorial content. Some of these include:
-- *[Describe any additional features, styling changes, or customizations you added]*
 
 ## 📦 Installation and Setup
 
