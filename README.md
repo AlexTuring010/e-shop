@@ -62,5 +62,4 @@ To get this project up and running locally, follow these steps:
 ## 🙏 Acknowledgments
 
 Special thanks to:
-- **freeCodeCamp.org** for their comprehensive React course.
-- **YouTube tutorial creators** for providing excellent guidance and inspiration throughout this project.
+- **freeCodeCamp.org** for their comprehensive courses.
